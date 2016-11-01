@@ -1,0 +1,15 @@
+These results are generated from Octave file <statistics_models.m>, to print a formatted table for summarizing models statistics
+
+
+
+
+			Auto-Generated table for summarizing statistical analysis for model geco
+	+------------------------+------------------------+------------------------+
+	|	Degree           |	std (m)           |	mean               |
+	+------------------------+------------------------+------------------------+
+	|  149                   |  0.365480              |  0.304553            |
+	|  669                   |  0.369906              |  0.379220            |
+	|  665                   |  0.370001              |  0.378087            |
+	|  263                   |  0.370542              |  0.367333            |
+	|  674                   |  0.372194              |  0.378396            |
+	+------------------------+------------------------+------------------------+
