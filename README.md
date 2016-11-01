@@ -18,7 +18,7 @@ A typical directory for any model would contain:
   - csv file that contains `DEGREE, STD, MEAN`
   - A table which shows the best n-models (we use to output 10) based on the `std`
 
-## Figure
+## Figures
 
 Is a directory to store our figures for combined models `std` results. Because of the difference between our models in degrees, we compared them on a `xlim` of 20 units up-to degree 180, then for the rest of the models (2190), we compared them with `xlim` of 100 units. We used a variable units for `ylim` to enhance the visualization. All of the figures were saved with _dpi_ of `1200` which is compatible with basically any journal.
 
