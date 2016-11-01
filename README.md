@@ -22,7 +22,7 @@ A typical directory for any model would contain:
 
 Is a directory to store our figures for combined models `std` results. Because of the difference between our models in degrees, we compared them on a `xlim` of 20 units up-to degree 180, then for the rest of the models (2190), we compared them with `xlim` of 100 units. We used a variable units for `ylim` to enhance the visualization. All of the figures were saved with _dpi_ of `1200` which is compatible with basically any journal.
 
-You can view the figures (here)[figures/]
+You can view the figures [here](figures/)
 
 There is also a \*.ipynb which is a jupyter notebook. We use it because it's a way better to visualize and work with your data than MATLAB/OCTAVE. This notebook might not be very clear, but I think I will get to document it better :)
 For now, there are a few tables that contain some statistical results regarding the models i.e. what is the best degree over all models. Interestingly, we found that higher degrees have good results based on std (that shouldn't make any sort of surprise, but it's compared to Mohamed Osman's old results).
