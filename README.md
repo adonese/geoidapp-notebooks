@@ -24,4 +24,4 @@ For now, there are a few tables that contain some statistical results regarding 
 The figures are plots for the whole five models. It's also interesting to see that `egm2008, eigen-6c4, and geco` almost alwyas have the same std! It shouldn't be a surprise because I believe geco and eigen-6c4 shared some degrees from egm2008--I found that in their documentation if I remember.
 
 ## EOF
-LOL I don't have anything to mention, so yeah this is the end of the file. As if I need to tell Github that I'm done with them.
+LOL! I don't have anything to mention, so yeah this is the end of the file. As if I need to tell Github that I'm done with them.
